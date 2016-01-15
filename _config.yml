@@ -1,11 +1,11 @@
 # Site wide configuration
 
 title: Thomas Reynaud
-description: A French data scientist at Metis
+description:
 logo:
-teaser: https://avatars0.githubusercontent.com/u/13488732?v=3&amp;s=460
+teaser:
 locale: en
-url: https://www.thmsreynaud.com
+url:
 
 # Jekyll configuration
 
@@ -29,7 +29,7 @@ owner:
     ad-client:
     ad-slot:
   bio:
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  avatar: # 160x160 px image for author byline
   disqus-shortname: thmsreynaud
 
 
