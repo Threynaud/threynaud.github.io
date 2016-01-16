@@ -1,13 +1,13 @@
 # Site navigation links
 
-- title: Portfolio
-  url: /portfolio/
-  excerpt: "Things I've designed, illustrated, developed, coded, .."
-  image:
-
 - title: About me
   url: /about/
   excerpt: "Who is Thomas?"
+  image:
+
+- title: Portfolio
+  url: /portfolio/
+  excerpt: "Things I've designed, illustrated, developed, coded, .."
   image:
 
 - title: Articles
