@@ -1,14 +1,21 @@
 ---
-layout: {{ layout }}
-title: {{ title }}
+layout: post
+title: Hello World
 modified:
-categories: {{ dir }}
+categories:
 excerpt:
-tags: []
+tags: [Hello]
 image:
   feature:
   teaser:
   thumb:
 ---
 
-Yo!
+Yo! fkrneiovgnierivtr
+vdoihviofe
+jdioshvgiefi
+
+goifhpviogniofe
+
+
+rejiovghepoizbuvhéeriubguafbobvoiqpiorhuobebvie
