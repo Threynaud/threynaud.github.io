@@ -3,7 +3,7 @@ layout: post
 title: Hello World
 modified:
 categories:
-excerpt:
+excerpt: Hi
 tags: [Hello]
 image:
   feature:
