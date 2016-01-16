@@ -1,8 +1,8 @@
 # Site navigation links
 
-- title: About me
+- title: About
   url: /about/
-  excerpt: "Who is Thomas?"
+  excerpt: "Who am I?"
   image:
 
 - title: Portfolio
@@ -11,7 +11,7 @@
   image:
 
 - title: Articles
-  url: /_posts/
-  excerpt: "Things I wrote"
+  url: /articles/
+  excerpt: "Bootcamp, thoughts, interesting topics, ..."
   image:
 
