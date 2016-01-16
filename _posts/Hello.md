@@ -1,6 +1,14 @@
 ---
-layout: post
-title: Hello world!
+layout: {{ layout }}
+title: {{ title }}
+modified:
+categories: {{ dir }}
+excerpt:
+tags: []
+image:
+  feature:
+  teaser:
+  thumb:
 ---
 
 Yo!
