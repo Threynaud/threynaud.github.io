@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Hello World
+layout: {{post}}
+title: {{Hello World}}
 modified:
 categories:
 excerpt: Hi
