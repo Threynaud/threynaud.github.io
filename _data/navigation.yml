@@ -3,7 +3,7 @@
 - title: About
   url: /about/
   excerpt: "Who am I?"
-  image:
+  image: about.png
 
 - title: Portfolio
   url: /portfolio/
