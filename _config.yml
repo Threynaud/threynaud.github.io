@@ -2,7 +2,7 @@
 
 title: Thomas Reynaud
 description: A French data scientist in NY
-logo:
+logo: avatar.png
 teaser: teaser.png
 locale: en
 # url:
@@ -22,14 +22,14 @@ gems:
 
 # Site owner
 owner:
-  name: Thomas REYNAUD
+  name: Thms
   email: thmsreynaud@gmail.com
   twitter: Thmsrey
   google:
     ad-client:
     ad-slot:
   bio:
-  avatar: # 160x160 px image for author byline
+  avatar: avatar.png
   disqus-shortname: thmsreynaud
 
 
