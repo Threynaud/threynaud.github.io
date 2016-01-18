@@ -8,7 +8,7 @@
 - title: Portfolio
   url: /portfolio/
   excerpt: "Things I've designed, illustrated, developed, coded, .."
-  image:
+  image: portfolio.png
 
 - title: Articles
   url: /articles/
